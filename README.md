@@ -11,8 +11,8 @@ So I built Drone Replay.
 ## How it works
 
 1. **The pilot does nothing new.** They fly with a DJI RC Pro 2 controller and press Record and Stop, as they already do.
-2. **About 3 seconds after Stop, the play is on the sideline,** on an Android tablet or phone running Drone Replay.
-3. **Every coach watches on their own iPad or phone.** They scan a QR code. They install no app, and it needs no internet and no cloud.
+2. **About 3 seconds after Stop, the play is pulled from the controller to the device running the app,** which for now has to be an Android phone or tablet running Drone Replay.
+3. **Coaches can use the phone in their pocket or a tablet (Android or iOS)** and scan the QR codes once per practice to get access to the replay clips.
 
 ## Does it work?
 
@@ -21,6 +21,12 @@ At our practices, October 18 to November 5, 2026:
 - **1,013 plays** copied over Wi-Fi
 - **0 lost**
 - **3 seconds** (median) from Stop to the sideline
+
+## What you need
+
+- **A DJI RC Pro 2 controller.** For now, it's the only controller Drone Replay works with. Support for a single phone with DJI's RC-N1 controller is being worked on.
+- **An Android phone or tablet** (Android 13 or newer, with 5 GHz Wi-Fi) to run Drone Replay on the sideline.
+- **For the other coaches:** any phone or tablet with a web browser.
 
 ## What you don't need
 
@@ -47,7 +53,7 @@ It's in use at practice with one team. The first public release, for Android wit
 
 To hear when it ships, click **Watch → Custom → Releases** at the top of this page.
 
-Follow the build on Instagram: **[@blwatson79](https://www.instagram.com/blwatson79/)**.
+Follow the build on Instagram **[@blwatson79](https://www.instagram.com/blwatson79/)** and on X **[@bwatson](https://x.com/bwatson)**.
 
 ---
 
